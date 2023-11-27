@@ -3,10 +3,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Professional Services"
+  - title: "Professional Services" # Talks
     url: /talks/    
 
-  - title: "Honors & Awards"
+  - title: "Honors & Awards" # Teaching
     url: /teaching/    
     
   - title: "Portfolio"
