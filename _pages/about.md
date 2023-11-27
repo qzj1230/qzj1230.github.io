@@ -14,7 +14,7 @@ He has rich experience in handling journal affairs and reviewing manuscripts. He
 Education & Work Experience
 ======
 Education Experience  
--------
+-------  
 
 |Time           |University                                      |School         |Major                          |Degree |
 |:-------------:|:---------------------------------------------:|:--------------:|:-----------------------------:|:------------------:|  
@@ -23,7 +23,7 @@ Education Experience
 |2011.09-2015.07|Xi'an University of Posts and Telecommunications|School of Automation|Measurement and Control Technology and Instruments|B.S. in Engineering|  
   
 工作经历（work experience）：  
--------
+-------  
 
 |Time           |University	                                          |School                           |Position              |  
 |:-------------:|:---------------------------------------------------:|:------------------------------:|:---------------------:|  
