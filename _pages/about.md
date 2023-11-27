@@ -32,22 +32,19 @@ Research-Topics
 ======
 研究课题
 
-[1]Project Leader,Multiclass Defects Intelligent Detection via Vision Under Complex Conditions, Key Research and Development Program of Shaanxi Province,Ongoing.
+[1]. Project Leader,Multiclass Defects Intelligent Detection via Vision Under Complex Conditions, Key Research and Development Program of Shaanxi Province,Ongoing.  
 
-[2| Project Leader,Remote Sensing Image Enhancement Technology for Aerial Detection,Shaanxi Province Postdoctoral Foundation Program,September 23,2023 to September 22,2024,Ongoing. [3| Project Leader, Multilevel Image Sharpening Method for Non-uniform Hyperspectral Remote Sensing Images,National Natural Science Foundation of China,Youth Project,January 01,2024 to December 31,2025,Ongoing.
+[2]. Project Leader,Remote Sensing Image Enhancement Technology for Aerial Detection,Shaanxi Province Postdoctoral Foundation Program,September 23,2023 to September 22,2024,Ongoing.  
 
-14] Project Leader,Remote Sensing Image Visual Perception Enhancement from High Viewpoint, China Postdoctoral Science Foundation Program,June 29,2023 to June 30,2024,Ongoing. 15| Project Leader,Quality Improvement of Low-Perception Remote Sensing Images,New Teacher Innovation Fund,January 01,2022 to December 31,2024,Ongoing.
+[3]. Project Leader, Multilevel Image Sharpening Method for Non-uniform Hyperspectral Remote Sensing Images,National Natural Science Foundation of China,Youth Project,January 01,2024 to December 31,2025,Ongoing.  
 
-16] Participation,Visual Object Depth Level Perception and Understanding in Complex Dynamic Environment,Joint Fund Project of National Natural Science Foundation of China,January 01, 2022 to December 31,2025,Ongoing.
+[4]. Project Leader,Remote Sensing Image Visual Perception Enhancement from High Viewpoint, China Postdoctoral Science Foundation Program,June 29,2023 to June 30,2024,Ongoing.  
 
-[7] Participation,UDC Clarity Enhancement Technology,Huawei Terminal Technology Co.,Ltd, November 01,2019 to October 31,2020,Completion.
+[5]. Project Leader,Quality Improvement of Low-Perception Remote Sensing Images,New Teacher Innovation Fund,January 01,2022 to December 31,2024,Ongoing.  
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+[6]. Participation,Visual Object Depth Level Perception and Understanding in Complex Dynamic Environment,Joint Fund Project of National Natural Science Foundation of China,January 01, 2022 to December 31,2025,Ongoing.  
+
+[7]. Participation,UDC Clarity Enhancement Technology,Huawei Terminal Technology Co.,Ltd, November 01,2019 to October 31,2020,Completion.  
 
 News
 ======
