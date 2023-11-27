@@ -14,7 +14,7 @@ He has rich experience in handling journal affairs and reviewing manuscripts. He
 Education & Work Experience
 ======
 教育经历（Education Experience）
-|时间|院系|专业|学位|
+|时间          |院系            |专业               |学位    |
 |---------------|--------------------|--------------|--------|
 |2018.09-2022.06|西北工业大学计算机学院|计算机科学与技术|工学博士|
 |2015.09-2018.07|长安大学电子信息工程学院|交通运输工程|工学硕士|
