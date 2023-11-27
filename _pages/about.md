@@ -15,6 +15,7 @@ Education & Work Experience
 ======
 Education Experience  
 -------
+
 |Time           |University                                      |School         |Major                          |Degree |
 |:-------------:|:---------------------------------------------:|:--------------:|:-----------------------------:|:------------------:|
 |2018.09-2022.06|Northwestern Polytechnical University|School of Computer Science|Computer Science and Technology|Ph.D. in Engineering|
@@ -23,6 +24,7 @@ Education Experience
   
 工作经历（work experience）：  
 -------
+
 |Time           |University	                                          |School                           |Position              |
 |:-------------:|:---------------------------------------------------:|:------------------------------:|:---------------------:|
 |2022.06—Present|Xi'an University of Electronic Science and Technology|School of Electronic Engineering|Postdoctoral Researcher|
