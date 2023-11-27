@@ -21,7 +21,7 @@ Education Experience
 | 2015.09-2018.07 | Chang'an University|School of Electronic and Information Engineering | Transportation Engineering|M.S. in Engineering |
 | 2011.09-2015.07 | Xi'an University of Posts and Telecommunications | School of Automation | Measurement and Control Technology and Instruments|B.S. in Engineering |
   
-工作经历（work experience）：  
+Work experience  
 -------  
 |Time           |University	                                          |School                           |Position              |
 |:-------------:|:---------------------------------------------------:|:------------------------------:|:---------------------:|
@@ -46,5 +46,5 @@ Research-Topics
 
 News
 ======
-新闻
+None
 
