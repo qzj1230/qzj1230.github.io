@@ -7,16 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Qiang Li is currently an Associate Professor with the School of Artificial Intelligence, Optics and Electronics (iOPEN),Northwestern Polytechnical University,Xi'an,China. His research interests focus on remote sensing image processing,particularly super-resolution,object detection,etc.He has authored or co-authored 23 papers,including IEEE GRSL/JSTARS/TGRS/TIP/TMM,as well as the conference papers in IGARSS,ICASSP,etc. Additionally,he has had 3 papers selected as highly cited papers by ESI,and obtained 4 patents.He has led 2 national projects and 2 provincial projects,and participated in 5 projects.
+**Qiang Li** is currently an Associate Professor with the School of Artificial Intelligence, Optics and Electronics (iOPEN),Northwestern Polytechnical University,Xi'an,China. His research interests focus on remote sensing image processing,particularly super-resolution,object detection,etc.He has authored or co-authored 23 papers,including IEEE GRSL/JSTARS/TGRS/TIP/TMM,as well as the conference papers in IGARSS,ICASSP,etc. Additionally,he has had 3 papers selected as highly cited papers by ESI,and obtained 4 patents.He has led 2 national projects and 2 provincial projects,and participated in 5 projects.
 
-He has rich experience in handling journal affairs and reviewing manuscripts. He has served as Lead Guest Editor for a special issue in the Remote Sensing journal,Self-Supervised Learning in Remote Sensing.Meanwhile,he has served as a Technical Committee/Program Committee mem- ber/Reviewer for more than 30 international journals and conferences.Moreover,he is familiar with the review process and knows the responsibilities as an Associate Editor.He helps team scholars in handling affairs related to international journals, including tracking the status of each manuscript, inviting professional reviewers,etc.
+He has rich experience in handling journal affairs and reviewing manuscripts. He has served as Lead Guest Editor for a special issue in the Remote Sensing journal,Self-Supervised Learning in Remote Sensing.Meanwhile,he has served as a **Technical Committee/Program Committee member/Reviewer** for more than 30 international journals and conferences.Moreover,he is familiar with the review process and knows the responsibilities as an Associate Editor.He helps team scholars in handling affairs related to international journals, including tracking the status of each manuscript, inviting professional reviewers,etc.
 
 Education & Work Experience
 ======
 教育经历（Education Experience）
-2018.09-2022.06 西北工业大学计算机学院 计算机科学与技术 工学博士
-2015.09-2018.07 长安大学电子信息工程学院 交通运输工程 工学硕士
-2011.09-2015.07 西安邮电大学自动化学院 测控技术与仪器 工学学士
+|时间|院系|专业|学位|
+|---------------|--------------------|--------------|--------|
+|2018.09-2022.06|西北工业大学计算机学院|计算机科学与技术|工学博士|
+|2015.09-2018.07|长安大学电子信息工程学院|交通运输工程|工学硕士|
+|2011.09-2015.07|西安邮电大学自动化学院|测控技术与仪器|工学学士|
+
 工作经历（work experience）：
 2022.06—至今 西安电子科技大学 电子工程学院 博士后
 
