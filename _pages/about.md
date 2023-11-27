@@ -12,7 +12,8 @@ redirect_from:
 He has rich experience in handling journal affairs and reviewing manuscripts. He has served as Lead Guest Editor for a special issue in the Remote Sensing journal,Self-Supervised Learning in Remote Sensing.Meanwhile,he has served as a **Technical Committee/Program Committee member/Reviewer** for more than 30 international journals and conferences.Moreover,he is familiar with the review process and knows the responsibilities as an Associate Editor.He helps team scholars in handling affairs related to international journals, including tracking the status of each manuscript, inviting professional reviewers,etc.
 
 Education & Work Experience
-======
+======  
+
 Education Experience  
 -------  
 
