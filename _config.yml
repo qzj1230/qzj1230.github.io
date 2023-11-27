@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _honors&awards
   - scope:
       path: ""
-      type: teaching
+      type: honors&awards
     values:
       layout: single
       author_profile: true
