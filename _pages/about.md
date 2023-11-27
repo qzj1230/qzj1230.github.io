@@ -17,15 +17,15 @@ Education Experience
 -------  
 |Time           |University                                      |School         |Major                          |Degree |
 |:-------------:|:---------------------------------------------:|:--------------:|:-----------------------------:|:------------------:|
-| 2018.09-2022.06 | Northwestern Polytechnical University|School of Computer Science | Computer Science and Technology|Ph.D. in Engineering |
-| 2015.09-2018.07 | Chang'an University|School of Electronic and Information Engineering | Transportation Engineering|M.S. in Engineering |
-| 2011.09-2015.07 | Xi'an University of Posts and Telecommunications | School of Automation | Measurement and Control Technology and Instruments|B.S. in Engineering |
+| 2018.09 - 2022.06 | Northwestern Polytechnical University|School of Computer Science | Computer Science and Technology|Ph.D. in Engineering |
+| 2015.09 - 2018.07 | Chang'an University|School of Electronic and Information Engineering | Transportation Engineering|M.S. in Engineering |
+| 2011.09 - 2015.07 | Xi'an University of Posts and Telecommunications | School of Automation | Measurement and Control Technology and Instruments|B.S. in Engineering |
   
 Work experience  
 -------  
 |Time           |University	                                          |School                           |Position              |
 |:-------------:|:---------------------------------------------------:|:------------------------------:|:---------------------:|
-| 2022.06—Present | Xi'an University of Electronic Science and Technology | School of Electronic Engineering | Postdoctoral Researcher |  
+| 2022.06 - Present | Xi'an University of Electronic Science and Technology | School of Electronic Engineering | Postdoctoral Researcher |  
    
 
 Research-Topics
