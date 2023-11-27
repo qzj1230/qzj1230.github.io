@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  honors&awards:
+  honors-awards:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _honors&awards
+  # _honors-awards
   - scope:
       path: ""
-      type: honors&awards
+      type: honors-awards
     values:
       layout: single
       author_profile: true
