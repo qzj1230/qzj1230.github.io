@@ -184,7 +184,7 @@ collections:
   project:
     output: true
     permalink: /:collection/:path/
-  talks:
+  professional-services:
     output: true
     permalink: /:collection/:path/
 
@@ -236,12 +236,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _professional-services
   - scope:
       path: ""
-      type: talks
+      type: professional-services
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
