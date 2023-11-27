@@ -14,6 +14,15 @@ He has rich experience in handling journal affairs and reviewing manuscripts. He
 Education & Work Experience
 ======
 教育经历（Education Experience）
+
+| 姓名   | 年龄 | 职业     |
+|-------|------|---------|
+| 小明   | 25   | 工程师    |
+| 小红   | 30   | 设计师    |
+| 小刚   | 28   | 营销专员  |
+
+
+
 |时间          |院系            |专业               |学位    |
 |---------------|--------------------|--------------|--------|
 |2018.09-2022.06|西北工业大学计算机学院|计算机科学与技术|工学博士|
