@@ -2,12 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "Project" # Portfolio
+    url: /project/
+    
   - title: "Professional Services" # Talks
-    url: /talks/    
+    url: /professional-services/    
 
   - title: "Honors & Awards" # Teaching
-    url: /teaching/    
+    url: /honors&awards/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
