@@ -15,7 +15,7 @@ Education & Work Experience
 ======  
 
 Education Experience  
--------  
+------  
 
 |Time           |University                                      |School         |Major                          |Degree |
 |:-----------------:|:-------------------------------------:|:--------------------------:|:------------------------------:|:-------------------:|
@@ -24,7 +24,7 @@ Education Experience
 | 2011.09 - 2015.07 | Xi'an University of Posts and Telecommunications | School of Automation | Measurement and Control Technology and Instruments | B.S. in Engineering |
   
 Work experience  
--------  
+------  
 
 |Time           |University	                                          |School                           |Position              |
 |:-------------:|:---------------------------------------------------:|:------------------------------:|:---------------------:|
