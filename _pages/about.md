@@ -13,25 +13,23 @@ He has rich experience in handling journal affairs and reviewing manuscripts. He
 
 Education & Work Experience
 ======
-教育经历（Education Experience）  
-
-|时间          |院系            |专业               |学位    |
-|:-------------:|:------------------:|:-------------:|:-----:|
-|2018.09-2022.06|西北工业大学计算机学院|计算机科学与技术|工学博士|
-|2015.09-2018.07|长安大学电子信息工程学院|交通运输工程|工学硕士|
-|2011.09-2015.07|西安邮电大学自动化学院|测控技术与仪器|工学学士|
-
+Education Experience  
+-------
+|Time           |University                                      |School         |Major          |Degree |
+|:-------------:|:---------------------------------------------:|:--------------:|:-------------:|:-----:|
+|2018.09-2022.06|Northwestern Polytechnical University|School of Computer Science|Computer Science and Technology|Ph.D. in Engineering|
+|2015.09-2018.07|Chang'an University|School of Electronic and Information Engineering|Transportation Engineering|M.S. in Engineering|
+|2011.09-2015.07|Xi'an University of Posts and Telecommunications|School of Automation|Measurement and Control Technology and Instruments|B.S. in Engineering|
+  
 工作经历（work experience）：  
-
-|时间        |学校          |院系       |职位  |
-|:----------:|:------------:|:---------:|:----:|
-|2022.06—至今|西安电子科技大学|电子工程学院|博士后|
+-------
+|时间           |学校                                                 |院系                            |职位          |
+|:-------------:|:---------------------------------------------------:|:------------------------------:|:------------:|
+|2022.06—Present|Xi'an University of Electronic Science and Technology|School of Electronic Engineering|Postdoctoral Researcher|
    
 
 Research-Topics
 ======
-研究课题
-
 [1]. Project Leader,Multiclass Defects Intelligent Detection via Vision Under Complex Conditions, Key Research and Development Program of Shaanxi Province,Ongoing.  
 
 [2]. Project Leader,Remote Sensing Image Enhancement Technology for Aerial Detection,Shaanxi Province Postdoctoral Foundation Program,September 23,2023 to September 22,2024,Ongoing.  
