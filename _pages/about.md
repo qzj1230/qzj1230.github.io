@@ -7,19 +7,33 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Qiang Li is currently an Associate Professor with the School of Artificial Intelligence, Optics and Electronics (iOPEN),Northwestern Polytechnical University,Xi'an,China. His research interests focus on remote sensing image processing,particularly super-resolution,object detection,etc.He has authored or co-authored 23 papers,including IEEE GRSL/JSTARS/TGRS/TIP/TMM,as well as the conference papers in IGARSS,ICASSP,etc. Additionally,he has had 3 papers selected as highly cited papers by ESI,and obtained 4 patents.He has led 2 national projects and 2 provincial projects,and participated in 5 projects.
 
-个人简历，简介，？pdf预览？
+He has rich experience in handling journal affairs and reviewing manuscripts. He has served as Lead Guest Editor for a special issue in the Remote Sensing journal,Self-Supervised Learning in Remote Sensing.Meanwhile,he has served as a Technical Committee/Program Committee mem- ber/Reviewer for more than 30 international journals and conferences.Moreover,he is familiar with the review process and knows the responsibilities as an Associate Editor.He helps team scholars in handling affairs related to international journals, including tracking the status of each manuscript, inviting professional reviewers,etc.
 
 Education & Work Experience
 ======
-教育与工作经历
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+教育经历（Education Experience）
+2018.09-2022.06 西北工业大学计算机学院 计算机科学与技术 工学博士
+2015.09-2018.07 长安大学电子信息工程学院 交通运输工程 工学硕士
+2011.09-2015.07 西安邮电大学自动化学院 测控技术与仪器 工学学士
+工作经历（work experience）：
+2022.06—至今 西安电子科技大学 电子工程学院 博士后
 
 Research-Topics
 ======
 研究课题
+
+[1]Project Leader,Multiclass Defects Intelligent Detection via Vision Under Complex Conditions, Key Research and Development Program of Shaanxi Province,Ongoing.
+
+[2| Project Leader,Remote Sensing Image Enhancement Technology for Aerial Detection,Shaanxi Province Postdoctoral Foundation Program,September 23,2023 to September 22,2024,Ongoing. [3| Project Leader, Multilevel Image Sharpening Method for Non-uniform Hyperspectral Remote Sensing Images,National Natural Science Foundation of China,Youth Project,January 01,2024 to December 31,2025,Ongoing.
+
+14] Project Leader,Remote Sensing Image Visual Perception Enhancement from High Viewpoint, China Postdoctoral Science Foundation Program,June 29,2023 to June 30,2024,Ongoing. 15| Project Leader,Quality Improvement of Low-Perception Remote Sensing Images,New Teacher Innovation Fund,January 01,2022 to December 31,2024,Ongoing.
+
+16] Participation,Visual Object Depth Level Perception and Understanding in Complex Dynamic Environment,Joint Fund Project of National Natural Science Foundation of China,January 01, 2022 to December 31,2025,Ongoing.
+
+[7] Participation,UDC Clarity Enhancement Technology,Huawei Terminal Technology Co.,Ltd, November 01,2019 to October 31,2020,Completion.
+
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
@@ -34,7 +48,19 @@ News
 
 Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+[1]Outstanding Graduates of Shaanxi Province,Shaanxi Province,July 2023. 12) Outstanding Graduates,Northwestern Polytechnical University,March 2023.
+
+[3] National Scholarship for Doctoral Students,Northwestern Polytechnical University,December 2021.
+
+[4]Excellent Postgraduates, Northwestern Polytechnical University, 2018-2021. [5| Outstanding Graduates,Chang'an University,June 2018.
+
+16| Excellent Postgraduates,Chang'an University,2015-2017.
+
+17| National Scholarship for Master Students,Chang'an University,December 2016.
+
+[8]The 10-th"Challenge Cup"National College Student Business Plan Competition,National Bronze Award,November 2016.
+
+[9] The eighth International Contest of innovAtioN (ICAN),National Bronze Award,September 2014.
 
 Create content & metadata
 ------
