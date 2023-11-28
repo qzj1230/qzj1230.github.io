@@ -3,9 +3,13 @@ layout: archive
 title: "Professional Services"
 permalink: /professional-services/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
----  
+
+
+-------------------------------  
 EDITOR BOARD & TPC MEMBER  
 ======  
   
@@ -24,7 +28,7 @@ EDITOR BOARD & TPC MEMBER
 [7]. International Conference on Computing,Information Science and System,Technical Program Committee,May 10-12,2024,Xiamen,China.  
   
 
----  
+----------------------------------  
 REVIEWERS & MEMBERSHIP  
 ======  
   
@@ -33,7 +37,7 @@ Regular Reviewers
   
 IEEE TGRS,IEEE GRSL,IEEE JSTARS,IEEE TIP,IEEE TPAMI,IEEE TCYB,IEEE TIE,IEEE TMM,UJRS,IEEE TAI,IEEE TNSE,IEEE TMC,SPL,IEEE KDE,Information Fusion,Remote Sensing,IET Image Processing,etc.  
 
----  
+  
 Membership  
 ------  
   
