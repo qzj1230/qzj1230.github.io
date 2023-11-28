@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-  
+---  
 Journal Articles  
 ========  
 
@@ -100,7 +100,7 @@ Journal Articles
 
 
 
-  
+---  
 Conference Papers   
 ========  
 
@@ -117,7 +117,7 @@ Conference Papers
 
 
 
-  
+---  
 PATENTS  
 ========  
 
