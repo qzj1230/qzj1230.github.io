@@ -16,11 +16,11 @@ Journal Articles
 ========  
 
 [1]. S.Li,Z.Wang,L.Fang,and __Q.Li\*__,"An Efficient Subspace Partition Method Using Curve Fitting for Hyperspectral Band Selection,"_IEEE Geoscience and Remote Sensing Letters_,Under Review.  
-------  
+********  
 
 
 [2]. S.Li,Z.Liu,L.Fang,and __Q.Li\*__,"Structural Graph Learning Method for Hyperspectral Band Selection,"_International Journal of Remote Sensing_,Under Review.  
-------  
+********  
 
 
 [3]. S.Li,S.Wang,and __Q.Li\*__,"Joint Posterior Probability Active Learning for Hyperspectral Image Classification",_Remote Sensing_,vol.15,no.16,pp.3936,2023.  
