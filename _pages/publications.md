@@ -9,23 +9,23 @@ redirect_from:
 
 Journal Articles
 ========  
-[1]. S.Li,Z.Wang,L.Fang,and __Q.Li*__,"An Efficient Subspace Partition Method Using Curve Fitting for Hyperspectral Band Selection,"_IEEE Geoscience and Remote Sensing Letters_,Under Review.  
+[1]. S.Li,Z.Wang,L.Fang,and __Q.Li\*__,"An Efficient Subspace Partition Method Using Curve Fitting for Hyperspectral Band Selection,"_IEEE Geoscience and Remote Sensing Letters_,Under Review.  
 ------  
-[2]. S.Li,Z.Liu,L.Fang,and __Q.Li*__,"Structural Graph Learning Method for Hyperspectral Band Selection,"_International Journal of Remote Sensing_,Under Review.  
+[2]. S.Li,Z.Liu,L.Fang,and __Q.Li\*__,"Structural Graph Learning Method for Hyperspectral Band Selection,"_International Journal of Remote Sensing_,Under Review.  
 ------  
-[3]. S.Li,S.Wang,and __Q.Li*__,"Joint Posterior Probability Active Learning for Hyperspectral Image Classification",_Remote Sensing_,vol.15,no.16,pp.3936,2023.  
+[3]. S.Li,S.Wang,and __Q.Li\*__,"Joint Posterior Probability Active Learning for Hyperspectral Image Classification",_Remote Sensing_,vol.15,no.16,pp.3936,2023.  
 ------  
 [4]. __Q.Li__,Y.Yuan,and Q.Wang,"Multiscale Factor Joint Learning for Hyperspectral Image Super Resolution,"_IEEE Transactions on Geoscience and Remote Sensing_,vol.61,pp.1-10,2023.  
 ------  
 [5]. K.Zhuang,__Q.Li__,Y.Yuan,and Q.Wang,“Multidomain Adaptation for Motion Deblurring,"_IEEE Transactions on Multimedia_,DOI:10.1109/TMM.2023.3314154.  
 ------  
-[6]. M.Zhang,__Q.Li*__,Y.Yuan,and Q.Wang,"Difference-Guided Aggregation Network with Multi-image Pixel Contrast for Change Detection,"_IEEE Transactions on Geoscience and Remote Sensing_,vol.61,pp.1-11,2023.  
+[6]. M.Zhang,__Q.Li\*__,Y.Yuan,and Q.Wang,"Difference-Guided Aggregation Network with Multi-image Pixel Contrast for Change Detection,"_IEEE Transactions on Geoscience and Remote Sensing_,vol.61,pp.1-11,2023.  
 ------  
 [7]. __Q.Li__,M.Gong,Y.Yuan,and Q.Wang,"RGB-induced Feature Modulation Network for Hyper-spectral Image Super-Resolution,"_IEEE Transactions on Geoscience and Remote Sensing_,vol.61,pp.1-11,2023.  
 ------  
-[8]. S.Li,Z.Liu,L.Fang,and __Q.Li*__,"Block Diagonal Representation Learning for Hyperspectral Band Selection",_IEEE Transactions on Geoscience and Remote Sensing_,vol.61,ppp.1-13,2023.  
+[8]. S.Li,Z.Liu,L.Fang,and __Q.Li\*__,"Block Diagonal Representation Learning for Hyperspectral Band Selection",_IEEE Transactions on Geoscience and Remote Sensing_,vol.61,ppp.1-13,2023.  
 ------  
-[9]. S.Li,B.Peng,L.Fang,Q.Zhang,L.Cheng,and __Q.Li*__,"Hyperspectral Band Selection via Difference Between Intergroups,"_IEEE Transactions on Geoscience and Remote Sensing_,vol.61,pp.1-12,2023.  
+[9]. S.Li,B.Peng,L.Fang,Q.Zhang,L.Cheng,and __Q.Li\*__,"Hyperspectral Band Selection via Difference Between Intergroups,"_IEEE Transactions on Geoscience and Remote Sensing_,vol.61,pp.1-12,2023.  
 ------  
 [10]. M.Zhang,__Q.Li__,Y.Yuan,and Q.Wang,"Edge Neighborhood Contrastive Learning for Building Change Detection,"_IEEE Geoscience and Remote Sensing Letters_,vol. 20,pp. 1-5,2023.  
 ------  
@@ -33,7 +33,7 @@ Journal Articles
 ------  
 [12]. __Q.Li__,M.Gong,Y.Yuan,and Q.Wang,"Symmetrical Feature Propagation Network for Hyper-spectral Image Super-Resolution,"_IEEE Transactions on Geoscience and Remote Sensing_,vol. 60.pp.1-12,2022.  
 ------  
-[13]. S.Li,B.Peng,L.Fang,and __Q.Li*__,"Hyperspectral Band Selection via Optimal Combination Strategy,"_Remote Sensing_,vol.14,no.12,pp.2858,2022.  
+[13]. S.Li,B.Peng,L.Fang,and __Q.Li\*__,"Hyperspectral Band Selection via Optimal Combination Strategy,"_Remote Sensing_,vol.14,no.12,pp.2858,2022.  
 ------  
 [14]. Y.Liu,__Q.Li__,Q.Du,Y.Yuan,and Q.Wang,"ABNet: Adaptive Balanced Network for Multiscale Object Detection in Remote Sensing Imagery,"_IEEE Transactions on Geoscience and Remote Sensing_,vol. 60,pp.1-14,2022.(__Highly Cited Paper__)  
 ------  
