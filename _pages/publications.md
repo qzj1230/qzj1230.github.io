@@ -9,6 +9,7 @@ redirect_from:
 
 Journal Articles
 ========  
+
 [1]. S.Li,Z.Wang,L.Fang,and __Q.Li\*__,"An Efficient Subspace Partition Method Using Curve Fitting for Hyperspectral Band Selection,"_IEEE Geoscience and Remote Sensing Letters_,Under Review.  
 ------  
 
@@ -101,6 +102,7 @@ Journal Articles
 
 Conference Papers  
 ========  
+
 [1]. Y.Liu,__Q.Li__,Y.Yuan,and Q.Wang,"Single-Shot Balanced Detector for Geospatial Object Detection,"in Proc._IEEE International Conference on Acoustic,Speech,and Signal Processing_, 2022,pp.2529-2533.(CCF B)  
 ------ 
 
@@ -117,6 +119,7 @@ Conference Papers
 
 PATENTS  
 ========  
+
 [1]. __Q.Li__,Q.Wang,and Y.Yuan,"Multiscale Factor Joint Learning for Hyperspectral Image Super Resolution,"Application Number:CN202111065548.0.  
 ------ 
 
