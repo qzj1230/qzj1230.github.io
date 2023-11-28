@@ -13,7 +13,6 @@ He has rich experience in handling journal affairs and reviewing manuscripts. He
 
 Education & Work Experience
 ======  
-
 Education Experience  
 ------  
 
@@ -30,7 +29,7 @@ Work experience
 |:-------------:|:---------------------------------------------------:|:------------------------------:|:---------------------:|
 | 2022.06 - Present | Xi'an University of Electronic Science and Technology | School of Electronic Engineering | Postdoctoral Researcher |  
    
-
+  
 Research-Topics
 ======
 [1]. Project Leader,Multiclass Defects Intelligent Detection via Vision Under Complex Conditions, Key Research and Development Program of Shaanxi Province,Ongoing.  
