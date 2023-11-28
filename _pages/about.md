@@ -11,18 +11,19 @@ redirect_from:
 
 Personal Profile  
 =======  
+
+
+**Qiang Li** is currently an Associate Professor with the School of Artificial Intelligence, Optics, and Electronics (iOPEN) at [Northwestern Polytechnical University](https://iopen.nwpu.edu.cn/info/1017/2109.htm) in Xi'an, China. His research interests focus on remote sensing image processing, particularly in super-resolution, object detection, and related areas. He has authored or co-authored 23 papers, including publications in IEEE GRSL/JSTARS/TGRS/TIP/TMM, as well as conference papers presented at IGARSS, ICASSP, etc. Additionally, three of his papers have been recognized as highly cited by ESI, and he holds four patents. Li has led two national projects and two provincial projects, and he has participated in five projects.  
+
+**Research Topics:** Remote Sensing, Image Super-Resolution, Object Detection, Change Detection, Image Captioning, 3D Reconstruction, Image Classification
   
-**Qiang Li** is currently an Associate Professor with the School of Artificial Intelligence, Optics and Electronics (iOPEN),[Northwestern Polytechnical University](https://iopen.nwpu.edu.cn/info/1017/2109.htm),Xi'an,China. His research interests focus on remote sensing image processing,particularly super-resolution,object detection,etc.He has authored or co-authored 23 papers,including IEEE GRSL/JSTARS/TGRS/TIP/TMM,as well as the conference papers in IGARSS,ICASSP,etc. Additionally,he has had 3 papers selected as highly cited papers by ESI,and obtained 4 patents.He has led 2 national projects and 2 provincial projects,and participated in 5 projects.
-
-**Research-Topics:**Remote Sensing, Image Super-Resolution, Object Detection, Change Detection, Image Capation, 3D Reconstruction, Image Classification
-
-Education & Work Experience
+Education & Work Experience  
 ======  
   
 |Time           |University                                 |Major                            |Degree |
 |:-----------------:|:-------------------------------------:|:-------------------------------:|:------------------------------:|
 | 2018.09 - 2022.06 | Northwestern Polytechnical University | Computer Science and Technology | Ph.D. |
-| 2015.09 - 2018.07 | Chang'an University | Transportation Engineering | M.S. in Engineering |
+| 2015.09 - 2018.07 | Chang'an University | Transportation Engineering | M.S. |
 | 2011.09 - 2015.07 | Xi'an University of Posts and Telecommunications | Measurement and Control Technology and Instruments | B.S. |
 | 2022.06 - Present | Xi'an University of Electronic Science and Technology | Artificial Intelligence and Image Recognition | Postdoctoral Researcher |  
    
