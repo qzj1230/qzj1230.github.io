@@ -23,10 +23,10 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.email %}
-        <li><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> <span>Email:</span> <a href="mailto:{{ author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> {{ author.email }}</a></li>
+        <li><span>Email:</span> <a href="mailto:{{ author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> {{ author.email }}</a></li>
       {% endif %}
       {% if author.google_email %}
-        <li><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> <span>Google Email:</span> <a href="mailto:{{ author.google_email }}"><i class="fas fa-envelope" aria-hidden="true"></i> {{ author.google_email }}</a></li>
+        <li><span>Google Email:</span> <a href="mailto:{{ author.google_email }}"><i class="fas fa-envelope" aria-hidden="true"></i> {{ author.google_email }}</a></li>
       {% endif %}
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
