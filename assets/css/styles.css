@@ -3,3 +3,23 @@
 .justify-text {
   text-align: justify;
 }
+.profile-container {
+  text-align: justify;
+}
+
+.profile-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1em;
+}
+
+.profile-table th, .profile-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.profile-table th {
+  background-color: #333;
+  color: white;
+}
