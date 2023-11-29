@@ -1,13 +1,16 @@
 /* styles.css */
 
+/* 两端对齐 */
 .justify-text {
   text-align: justify;
 }
 
+/* 两端对齐 */
 .profile-container {
   text-align: justify;
 }
 
+/* 表格 */
 .profile-table {
   width: 100%;
   border-collapse: collapse;
@@ -25,6 +28,24 @@
   color: white;
 }
 
+/* 去下超链接划线 */
 .no-underline {
   text-decoration: none!important;
 }
+
+/* 序号 */
+ol {
+  list-style-type: square; /* 这里可以根据需要选择不同的样式，如 square、circle、decimal 等 */
+  counter-reset: custom-counter; /* 重置计数器 */
+}
+
+li {
+  counter-increment: custom-counter; /* 增加计数器 */
+}
+
+li:before {
+  content: "[" counter(custom-counter) "]"; /* 在每个项目前添加自定义格式的序号 */
+  margin-right: 0.5em; /* 可以调整序号与文本之间的间距 */
+}
+
+
