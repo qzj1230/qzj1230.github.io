@@ -21,12 +21,15 @@
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
-      {% if author.email %}
-        {% for email in author.email %}
-          <li><a href="mailto:{{ email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
-        {% endfor %}
-      {% endif %}
+    <div class="author__email">
+      <p>Email:</p>
+        <ul>
+           {% for email in author.email %}
+             <li><a href="mailto:{{ email }}">{{ email }}</a></li>
+           {% endfor %}
+        </ul>
+      </div>
+
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
