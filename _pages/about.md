@@ -13,7 +13,7 @@ Personal Profile
 -------  
 
 
-**Qiang Li** is currently an Associate Professor with the School of Artificial Intelligence, Optics, and Electronics (iOPEN) at [Northwestern Polytechnical University](https://iopen.nwpu.edu.cn/info/1017/2109.htm) in Xi'an, China. His research interests focus on remote sensing image processing, particularly in super-resolution, object detection, and related areas. He has authored or co-authored 23 papers, including publications in IEEE GRSL/JSTARS/TGRS/TIP/TMM, as well as conference papers presented at IGARSS, ICASSP, etc. Additionally, three of his papers have been recognized as highly cited by ESI, and he holds four patents. Li has led two national projects and two provincial projects, and he has participated in five projects.  
+<p class="justify-text"> ** [Qiang Li](https://iopen.nwpu.edu.cn/info/1017/2109.htm) ** is currently an Associate Professor with the School of Artificial Intelligence, Optics, and Electronics (iOPEN) at Northwestern Polytechnical University in Xi'an, China. His research interests focus on remote sensing image processing, particularly in super-resolution, object detection, and related areas. He has authored or co-authored 23 papers, including publications in IEEE GRSL/JSTARS/TGRS/TIP/TMM, as well as conference papers presented at IGARSS, ICASSP, etc. Additionally, three of his papers have been recognized as highly cited by ESI, and he holds four patents. Li has led two national projects and two provincial projects, and he has participated in five projects.  <\p>
 
 **Research Topics:** Remote Sensing, Image Super-Resolution, Object Detection, Change Detection, Image Captioning, 3D Reconstruction, Image Classification
   
