@@ -36,17 +36,22 @@
 
 /* 序号 */
 .custom-list {
-  list-style-type: none; /* 这里可以根据需要选择不同的样式，如 square、circle、decimal 等 */
-  counter-reset: custom-counter; /* 重置计数器 */
+  list-style-type: none;
+  counter-reset: custom-counter;
 }
 
 .custom-list li {
-  counter-increment: custom-counter; /* 增加计数器 */
+  counter-increment: custom-counter;
+  margin-bottom: 0.5em;
 }
 
 .custom-list li:before {
-  content: "[" counter(custom-counter) "]"; /* 在每个项目前添加自定义格式的序号 */
-  margin-right: 0.5em; /* 可以调整序号与文本之间的间距 */
+  content: "[" counter(custom-counter) "]";
+  margin-right: 0.5em;
+  vertical-align: middle; /* 垂直居中对齐 */
+  display: inline-block; /* 设置为行内块级元素 */
+  width: 2em; /* 可以根据实际情况调整宽度 */
+  text-align: right; /* 右对齐 */
 }
 
 
