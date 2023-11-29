@@ -82,13 +82,14 @@ analytics:
 author:
   name             : "Dr.LI QIANG"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Shan Xi,Xi'an"
+  bio              : " Northwestern Polytechnical University "
+  location         : # "Shan Xi,Xi'an"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : https://scholar.google.com/citations?hl=zh-CN&user=puHb0H0AAAAJ #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=puHb0H0AAAAJ" #"http://yourfullgooglescholarurl.com"
+  google_email     ："liqmges@gmail.com"
   email            : "liqbest@mail.nwpu.edu.cn"
-  researchgate     : https://www.researchgate.net/profile/Qiang-Li-242 # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Qiang-Li-242" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
