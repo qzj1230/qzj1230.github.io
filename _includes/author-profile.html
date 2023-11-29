@@ -25,6 +25,9 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}: {{ author.email }}</a></li>
       {% endif %}
+      {% if author.google_email %}
+        <li><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Google Email: <a href="mailto:{{ author.google_email }}">{{ author.google_email }}</a></li>
+      {% endif %}
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
