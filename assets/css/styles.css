@@ -54,7 +54,7 @@
   text-align: right; /* 右对齐 */
 }
 
-/* 文字|图片 */
+/* 文字|图片 
 .paper-box {
     display: flex;
     justify-content: left;
@@ -121,4 +121,4 @@ h1:before,
     background-color: #00369f;
     font-size: .8em;
 }
-
+ */
