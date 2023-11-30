@@ -54,4 +54,18 @@
   text-align: right; /* 右对齐 */
 }
 
+/* 文字|图片 */
+.content-container {
+  display: flex;
+  justify-content: space-between;
+}
 
+.text {
+  width: 64%; /* 调整根据实际需求的宽度百分比 */
+}
+
+.image {
+  width: 32%; /* 调整根据实际需求的宽度百分比 */
+}
+
+/* 可以根据需要添加其他样式 */
